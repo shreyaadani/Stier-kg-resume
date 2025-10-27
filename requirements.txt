@@ -5,3 +5,4 @@ networkx
 pyvis
 pdfminer.six
 pypdf
+sentence-transformers
